@@ -1,0 +1,36 @@
+p {
+	color: white;
+}
+
+.login-container {
+  display: flex;
+}
+.form-class {
+  background: #000000;
+  color: white;
+  flex: 1;
+}
+.image-class {
+  flex: 2;
+}
+
+form
+ {
+	padding: 50px;
+
+	text-align: center;  
+}
+
+#submitbutton {
+	  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 10px 5px;
+  cursor: pointer;
+  width: 170px
+}
